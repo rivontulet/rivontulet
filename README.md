@@ -2,5 +2,8 @@
 
 # Last Played Track
 
-**Artist:** Jhené Aiko  
-**Track:** Trigger Protection Mantra
+**Artist:** Swingrowers  
+**Track:** Follow the Stars  
+**Album:** Hybrid
+
+![Album cover](https://lastfm.freetls.fastly.net/i/u/300x300/bcb9c9d6572d15eaa8e7cfbfce25de99.jpg)
