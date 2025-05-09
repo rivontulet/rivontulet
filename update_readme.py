@@ -26,7 +26,7 @@ try:
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
 
-    print("✅ README.md updated successfully!")
+    print("README.md updated successfully!")
 
 except Exception as e:
-    print("❌ Error fetching or writing track:", e)
+    print("Error fetching or writing track:", e)
