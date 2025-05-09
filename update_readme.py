@@ -27,8 +27,7 @@ try:
         "(https://u8views.com/github/rivontulet)\n\n"
         "# Last Played Track\n\n"
         f"**Artist:** {artist_name}  \n"
-        f"**Track:** {track_name}  \n"
-        f"**Album:** {album_name}\n\n"
+        f"**Track:** {track_name}  \n,
     )
 
     if album_cover_url:
